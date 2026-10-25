@@ -11,4 +11,4 @@ Repo para las entregas de simulación
 | Sebastian Garces | sebastian.garcesc@est.iudigital.edu.co | sebasgarcesc |
 | Sofia Miranda | sofia.miranda@est.iudigital.edu.co | Sofimicu0105 |
 | Andres Quintero |andres.quinteror@est.iudigital.edu.co | AndresQuinteroRious |
-| Andres Quintero |andres.quinteror@est.iudigital.edu.co | AndresQuinteroRious |
+| Oscar Rene Peñaloza Ardila |oscar.penaloza@est.iudigital.edu.co | rene172212 |
